@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<style>
+img{width: 40%;}
+</style>
+
+
+- 🔭 I’m currently working on [architecture blog](https://www.techarc.info/)
+
 <!--
 **yochaubs/yochaubs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![iSAQB® Certified Professional for Software Architecture - Foundation Level](https://assets.badges.certible.com/baked-badges/certible/d79c7e1c-09fe-4313-9ce8-5a31a064c036.png) ![Adobe Experience Manager Architect](https://media.licdn.com/dms/image/C560BAQFrtK-ioO1rsQ/company-logo_100_100/0/1630645864762/adobe_logo?e=1723680000&v=beta&t=REJyxfKnXg3Q7pgwQtwGuu9pblZ0dBRUX0JBUZWkH5I)
+
