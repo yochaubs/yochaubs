@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<style>
-img{width: 40%;}
-</style>
-
-
 - 🔭 I’m currently working on [architecture blog](https://www.techarc.info/)
 
 <!--
@@ -22,5 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![iSAQB® Certified Professional for Software Architecture - Foundation Level](logos/cpsa-f.png) ![Adobe Experience Manager Architect](https://media.licdn.com/dms/image/C560BAQFrtK-ioO1rsQ/company-logo_100_100/0/1630645864762/adobe_logo?e=1723680000&v=beta&t=REJyxfKnXg3Q7pgwQtwGuu9pblZ0dBRUX0JBUZWkH5I)
+![iSAQB® Certified Professional for Software Architecture - Foundation Level](logos/cpsaf.png) 
+
+![Adobe Experience Manager Architect](logos/adobe_logo.jpeg)
 
